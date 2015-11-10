@@ -1,5 +1,5 @@
 # Marriage License Generator
-_by Gary Pang, "CodeWritingCow"
+_by Gary Pang, "CodeWritingCow"_
 
 ## What It Does
 This Python program produces a txt file of new marriage licenses for newspaper publication. I'm a reporter, and I wrote the program back in 2014 to make my job easier.
