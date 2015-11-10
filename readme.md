@@ -12,9 +12,9 @@ William Charles Little; 359 Fisher Ave., Catawissa; Charles Little; Jane Little;
 
 And makes a new txt file (marriages_2014-05-01_list.txt) like this:
 
-• Kevin Allen Kerlish, 1201 E. Second St., Berwick, son of Michael Kerlish and Cynthia Kerlish, 
+* Kevin Allen Kerlish, 1201 E. Second St., Berwick, son of Michael Kerlish and Cynthia Kerlish, 
 and Jenna Elaine Szymaszek, Nanticoke, daughter of Michael Smith and Heather Szymaszek
-• William Charles Little, 359 Fisher Ave., Catawissa, son of Charles and Jane Little, 
+* William Charles Little, 359 Fisher Ave., Catawissa, son of Charles and Jane Little, 
 and Danielle Nikole Presto, same, daughter of Karen Lou Presto and the late Anthony Howard Presto
 
 (When the program starts, it asks user to type a txt file's name. In this example, type "marriages_2014-05-01".)
@@ -30,6 +30,6 @@ Each field must be separated by a semicolon. Each new license must be in one par
 
 
 ## Things to Work on
-• Pennsylvania legalized same-sex marriage in May 2014. Program still writes "groom, son of ..." and "bride, daughter of ..." I might add options for users to tell the program whether if a couple is gay or lesbian.
+* Pennsylvania legalized same-sex marriage in May 2014. Program still writes "groom, son of ..." and "bride, daughter of ..." I might add options for users to tell the program whether if a couple is gay or lesbian.
 
-• Add codes to the program, so it won't throw an error when there are extra paragraph breaks.
+* Add codes to the program, so it won't throw an error when there are extra paragraph breaks.
