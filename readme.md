@@ -2,7 +2,7 @@
 _by Gary Pang, "CodeWritingCow"_
 
 ## What It Does
-This Python program produces a txt file of new marriage licenses for newspaper publication. I'm a reporter, and I wrote the program back in 2014 to make my job easier.
+This Python program produces a txt file of new marriage licenses for newspaper publication. I was a reporter, and I wrote the program back in 2014 to make my job easier.
 
 ## How It Works
 It opens a txt file (ex. marriages_2014-05-01.txt) with information like this:
